@@ -5,6 +5,11 @@
 body{
     font-family: "poppins",sans-serif;
 }
+footer{
+    background-color: black;
+    padding: 15px 0;
+    text-align: center;
+}
 .cabecalho{
     background-color: #bca2f7;
     color: white;
@@ -47,3 +52,9 @@ body{
 .estudante-titulo{
     text-align: center;
 }
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+
+}
+    
